@@ -1,5 +1,5 @@
 # Cave-monitoring.org
-host the file for www.cave-monitoring.org
+host the template file for www.cave-monitoring.org
 
 As agreed on the 2nd International Workshop of Cave Monitoring in Innsbruck, Austria, we set up a web-based database as a platform to improve and coordinate research activities in the fields of cave meteorology, karst and speleothem science and subterranean ecology. 
 
